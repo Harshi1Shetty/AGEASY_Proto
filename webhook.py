@@ -7,8 +7,8 @@ import os
 app = Flask(__name__)
 
 # WATI API credentials
-WATI_API_KEY = "Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJqdGkiOiIxNTBiYTBiYy1iN2EzLTRjOTYtOTUxNi0zNWNmY2EyODk3YmYiLCJ1bmlxdWVfbmFtZSI6ImF1Z21lbnRhYmxlc3RlY2hAZ21haWwuY29tIiwibmFtZWlkIjoiYXVnbWVudGFibGVzdGVjaEBnbWFpbC5jb20iLCJlbWFpbCI6ImF1Z21lbnRhYmxlc3RlY2hAZ21haWwuY29tIiwiYXV0aF90aW1lIjoiMTEvMDYvMjAyNCAxMToxMDowMSIsInRlbmFudF9pZCI6IjM2NzQyNyIsImRiX25hbWUiOiJtdC1wcm9kLVRlbmFudHMiLCJodHRwOi8vc2NoZW1hcy5taWNyb3NvZnQuY29tL3dzLzIwMDgvMDYvaWRlbnRpdHkvY2xhaW1zL3JvbGUiOiJBRE1JTklTVFJBVE9SIiwiZXhwIjoyNTM0MDIzMDA4MDAsImlzcyI6IkNsYXJlX0FJIiwiYXVkIjoiQ2xhcmVfQUkifQ.WnsGewqhqkwA6FCos6Z8MAp8X4qsRNrdvg6BGApnIcI"
-WATI_API_URL = "https://api.gupshup.io/sm/api/v1/msg"
+WATI_API_KEY = "
+WATI_API_URL = "https://api"
 
 # Define keywords and associated responses
 keyword_responses = {
